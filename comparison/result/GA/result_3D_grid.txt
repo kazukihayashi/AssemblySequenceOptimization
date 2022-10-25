@@ -1,0 +1,12 @@
+Microsoft Windows [Version 10.0.22000.613]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\dream\Documents\Research\RL_Construction\comparison>python GA_deap2.py
+max. fitness func: 0.0016750418760469012
+max. fitness func: 0.0016
+max. fitness func: 0.001841620626151013
+max. fitness func: 0.001652892561983471
+max. fitness func: 0.0013003901170351106
+time: 250988.124 seconds
+
+C:\Users\dream\Documents\Research\RL_Construction\comparison>

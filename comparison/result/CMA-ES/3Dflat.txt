@@ -1,0 +1,7 @@
+C:\Users\dream\Documents\Research\RL_Construction\comparison>python CMAES_deap.py
+290
+287
+306
+292
+285
+time: 26469.440 seconds

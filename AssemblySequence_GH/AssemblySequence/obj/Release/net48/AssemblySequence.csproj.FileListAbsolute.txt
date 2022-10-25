@@ -1,0 +1,12 @@
+C:\Users\dream\AppData\Roaming\Grasshopper\Libraries\Release\net48\AssemblySequence.gha
+C:\Users\dream\AppData\Roaming\Grasshopper\Libraries\Release\net48\AssemblySequence.pdb
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.csproj.AssemblyReference.cache
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.AssemblyInfoInputs.cache
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.AssemblyInfo.cs
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.csproj.CoreCompileInputs.cache
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.csproj.CopyComplete
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.gha
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.pdb
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.Properties.Resources.resources
+C:\Users\dream\Documents\Research\RL_Construction\AssemblySequence_GH\AssemblySequence\obj\Release\net48\AssemblySequence.csproj.GenerateResource.cache

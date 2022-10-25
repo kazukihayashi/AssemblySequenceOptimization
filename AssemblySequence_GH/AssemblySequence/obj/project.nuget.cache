@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+/0vJwbnwwRiK5+u7bVjby8i+pVZpOfvvSG6SDPejtiLrwz6ByMmfM8FJ9+IgELE0vKGHKJzyb99wjA62SxVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dream\\Documents\\Research\\RL_Construction\\AssemblySequence_GH\\AssemblySequence\\AssemblySequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dream\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\numpy\\3.7.1.28\\numpy.3.7.1.28.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\python.deployment\\1.2.0\\python.deployment.1.2.0.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\python.included\\3.7.3.13\\python.included.3.7.3.13.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\pythonnet_netstandard_py37_win\\2.5.1\\pythonnet_netstandard_py37_win.2.5.1.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

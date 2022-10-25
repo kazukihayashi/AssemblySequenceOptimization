@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dream\\Documents\\Research\\RL_Construction\\AssemblySequence_GH\\AssemblySequence\\AssemblySequence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dream\\Documents\\Research\\RL_Construction\\AssemblySequence_GH\\AssemblySequence\\AssemblySequence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dream\\Documents\\Research\\RL_Construction\\AssemblySequence_GH\\AssemblySequence\\AssemblySequence.csproj",
+        "projectName": "AssemblySequence",
+        "projectPath": "C:\\Users\\dream\\Documents\\Research\\RL_Construction\\AssemblySequence_GH\\AssemblySequence\\AssemblySequence.csproj",
+        "packagesPath": "C:\\Users\\dream\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dream\\Documents\\Research\\RL_Construction\\AssemblySequence_GH\\AssemblySequence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dream\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.13.21348.13001, )"
+            },
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Numpy": {
+              "target": "Package",
+              "version": "[3.7.1.28, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -3,7 +3,7 @@ Data corresponding to the paper "Assembly sequence optimization of spatial truss
 
 ![concat](https://user-images.githubusercontent.com/25089369/197717055-60a2a6e9-b223-4b5c-98a2-6cd468bbfe61.jpg)
 
-## File Description
+## Folder Description
 ### AssemblySequence_GH
  Grasshopper project to exploit the trained agent
  

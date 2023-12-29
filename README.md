@@ -1,5 +1,7 @@
 # AssemblySequenceOptimization
-Data corresponding to the paper "Assembly sequence optimization of spatial trusses using graph embedding and reinforcement learning"
+Data corresponding to the paper:
+
+Kazuki Hayashi, Makoto Ohsaki, and Masaya Kotera, "[Assembly sequence optimization of spatial trusses using graph embedding and reinforcement learning](https://www.ingentaconnect.com/contentone/iass/jiass/2022/00000063/00000004/art00005)", Journal of the International Association for Shell and Spatial Structures, Vol. 63 (2022) No. 4 December n. 214, pp. 232-240(9)
 
 ![concat](https://user-images.githubusercontent.com/25089369/197717055-60a2a6e9-b223-4b5c-98a2-6cd468bbfe61.jpg)
 
